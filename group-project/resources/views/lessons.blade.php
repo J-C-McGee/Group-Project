@@ -28,7 +28,7 @@
         </div>
 
         <div class="bg-white rounded-lg overflow-hidden shadow-lg">
-            <img src="/img/CSS Course Pic.jpg" class="w-full h-48 object-cover" alt="Placeholder Image">
+            <img src="/img/E-Learning.jpg" class="w-full h-48 object-cover" alt="Placeholder Image">
             <div class="p-4">
                 <h5 class="text-xl font-semibold mb-2">CSS:Style Sheets Basics</h5>
                 <p class="text-gray-700">Learn how to use style sheets in your web page.</p>
