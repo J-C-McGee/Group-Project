@@ -38,7 +38,7 @@
                             {{ __('Profile') }}
                         </x-dropdown-link>
 
-                        <x-dropdown-link :href="route('courses.php')">
+                        <x-dropdown-link :href="route('courses')">
                             {{ __('Courses') }}
                         </x-dropdown-link>
 
